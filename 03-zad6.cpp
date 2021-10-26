@@ -11,7 +11,7 @@ int main(){
     cin>>x>>y>>hSide;
     hSide = hSide / 2;
     
-   if(abs(x) < hSide && abs(y) < hSide){
+    if(abs(x) < hSide && abs(y) < hSide){
         cout<<"Point A("<<x<<", "<<y<<") is INSIDE the rectangle";
         return 0;
     }
