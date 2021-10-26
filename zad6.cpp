@@ -1,3 +1,6 @@
+//problems
+//https://github.com/triffon/ip-2021-22/blob/master/practicum/2/03-if-else-swtich/03-tasks.pdf
+
 #include <iostream>
 using namespace std;
 
