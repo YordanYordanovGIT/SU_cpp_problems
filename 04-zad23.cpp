@@ -18,7 +18,7 @@ int main(){
     else if(!isEven && isPrime(num - 2))
         std::cout << "yes";
     else if(isEven){
-        for (int i = num - 3; !isAnswerYes && i > num / 2; --i){
+        for (int i = num - 3; !isAnswerYes && i > num / 2 + 1; --i){
             if(isPrime(i) && isPrime(num - i))
                 isAnswerYes = true;
         }
