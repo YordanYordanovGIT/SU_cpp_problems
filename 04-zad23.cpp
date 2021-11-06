@@ -1,3 +1,4 @@
+//https://github.com/triffon/ip-2021-22/blob/master/practicum/2/04-loops/04-tasks.pdf
 #include <iostream>
 #include <cmath>
 
